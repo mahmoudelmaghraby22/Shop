@@ -1,0 +1,322 @@
+[
+  {
+    "Name": "iPhone X",
+    "Description": "Apple iPhone X with Super Retina display and Face ID.",
+    "Price": 999.99,
+    "PictureUrl": "images/products/boot-ang1.png",
+    "ProductBrandId": 1,
+    "ProductTypeId": 1
+  },
+  {
+    "Name": "Galaxy S21",
+    "Description": "Samsung Galaxy S21 with AMOLED display and powerful camera features.",
+    "Price": 799.99,
+    "PictureUrl": "images/products/boot-ang1.png",
+    "ProductBrandId": 2,
+    "ProductTypeId": 1
+  },
+  {
+    "Name": "Pixel 6",
+    "Description": "Google Pixel 6 with advanced camera technology and Android 12.",
+    "Price": 699.99,
+    "PictureUrl": "images/products/boot-ang1.png",
+    "ProductBrandId": 3,
+    "ProductTypeId": 1
+  },
+  {
+    "Name": "Mi 11",
+    "Description": "Xiaomi Mi 11 with Snapdragon 888 and impressive camera setup.",
+    "Price": 699.99,
+    "PictureUrl": "images/products/boot-ang1.png",
+    "ProductBrandId": 5,
+    "ProductTypeId": 1
+  },
+  {
+    "Name": "OnePlus 9",
+    "Description": "OnePlus 9 with Hasselblad camera system and fast charging.",
+    "Price": 699.99,
+    "PictureUrl": "images/products/boot-ang1.png",
+    "ProductBrandId": 22,
+    "ProductTypeId": 1
+  },
+  {
+    "Name": "Sony BRAVIA OLED TV",
+    "Description": "Sony BRAVIA OLED TV with stunning picture quality and immersive sound.",
+    "Price": 1999.99,
+    "PictureUrl": "images/products/boot-ang1.png",
+    "ProductBrandId": 6,
+    "ProductTypeId": 5
+  },
+  {
+    "Name": "Apple Watch Series 7",
+    "Description": "Apple Watch Series 7 with larger always-on display and new health features.",
+    "Price": 399.99,
+    "PictureUrl": "images/products/boot-ang1.png",
+    "ProductBrandId": 1,
+    "ProductTypeId": 6
+  },
+  {
+    "Name": "PlayStation 5",
+    "Description": "Sony PlayStation 5 gaming console with high-performance graphics and SSD.",
+    "Price": 499.99,
+    "PictureUrl": "images/products/boot-ang1.png",
+    "ProductBrandId": 6,
+    "ProductTypeId": 8
+  },
+  {
+    "Name": "Bose QuietComfort 45",
+    "Description": "Bose QuietComfort 45 noise-cancelling headphones for immersive audio experience.",
+    "Price": 349.99,
+    "PictureUrl": "images/products/boot-ang1.png",
+    "ProductBrandId": 14,
+    "ProductTypeId": 9
+  },
+  {
+    "Name": "Canon EOS R5",
+    "Description": "Canon EOS R5 mirrorless camera with 8K video capability and high-resolution sensor.",
+    "Price": 3499.99,
+    "PictureUrl": "images/products/boot-ang1.png",
+    "ProductBrandId": 9,
+    "ProductTypeId": 7
+  },
+  {
+    "Name": "Dell XPS 15",
+    "Description": "Dell XPS 15 laptop with powerful specs and InfinityEdge display.",
+    "Price": 1499.99,
+    "PictureUrl": "images/products/boot-ang1.png",
+    "ProductBrandId": 10,
+    "ProductTypeId": 2
+  },
+  {
+    "Name": "Samsung QLED TV",
+    "Description": "Samsung QLED TV with Quantum Dot technology and smart features.",
+    "Price": 1599.99,
+    "PictureUrl": "images/products/boot-ang1.png",
+    "ProductBrandId": 2,
+    "ProductTypeId": 5
+  },
+  {
+    "Name": "Fitbit Charge 5",
+    "Description": "Fitbit Charge 5 fitness tracker with advanced health and activity tracking.",
+    "Price": 149.99,
+    "PictureUrl": "images/products/boot-ang1.png",
+    "ProductBrandId": 17,
+    "ProductTypeId": 13
+  },
+  {
+    "Name": "Nintendo Switch OLED",
+    "Description": "Nintendo Switch OLED model with vibrant screen and portable gaming.",
+    "Price": 349.99,
+    "PictureUrl": "images/products/boot-ang1.png",
+    "ProductBrandId": 18,
+    "ProductTypeId": 8
+  },
+  {
+    "Name": "LG UltraGear Monitor",
+    "Description": "LG UltraGear gaming monitor with high refresh rate and QHD resolution.",
+    "Price": 599.99,
+    "PictureUrl": "images/products/boot-ang1.png",
+    "ProductBrandId": 7,
+    "ProductTypeId": 10
+  },
+  {
+    "Name": "TP-Link Archer AX6000",
+    "Description": "TP-Link Archer AX6000 Wi-Fi 6 router for fast and reliable internet.",
+    "Price": 199.99,
+    "PictureUrl": "images/products/boot-ang1.png",
+    "ProductBrandId": 19,
+    "ProductTypeId": 11
+  },
+  {
+    "Name": "Epson EcoTank ET-3760",
+    "Description": "Epson EcoTank ET-3760 all-in-one printer with high-capacity ink tanks.",
+    "Price": 399.99,
+    "PictureUrl": "images/products/boot-ang1.png",
+    "ProductBrandId": 20,
+    "ProductTypeId": 12
+  },
+  {
+    "Name": "Garmin Forerunner 945",
+    "Description": "Garmin Forerunner 945 GPS smartwatch for athletes and outdoor enthusiasts.",
+    "Price": 599.99,
+    "PictureUrl": "images/products/boot-ang1.png",
+    "ProductBrandId": 21,
+    "ProductTypeId": 6
+  },
+  {
+    "Name": "LG Stylo 7",
+    "Description": "LG Stylo 7 smartphone with stylus and large display.",
+    "Price": 299.99,
+    "PictureUrl": "images/products/boot-ang1.png",
+    "ProductBrandId": 7,
+    "ProductTypeId": 1
+  },
+  {
+    "Name": "Sony WH-1000XM4",
+    "Description": "Sony WH-1000XM4 noise-cancelling headphones with exceptional sound quality.",
+    "Price": 349.99,
+    "PictureUrl": "images/products/boot-ang1.png",
+    "ProductBrandId": 6,
+    "ProductTypeId": 9
+  },
+  {
+    "Name": "Lenovo Yoga C940",
+    "Description": "Lenovo Yoga C940 2-in-1 laptop with 4K display and powerful performance.",
+    "Price": 1299.99,
+    "PictureUrl": "images/products/boot-ang1.png",
+    "ProductBrandId": 13,
+    "ProductTypeId": 2
+  },
+  {
+    "Name": "Huawei P50",
+    "Description": "Huawei P50 smartphone with advanced camera and Kirin chipset.",
+    "Price": 799.99,
+    "PictureUrl": "images/products/boot-ang1.png",
+    "ProductBrandId": 23,
+    "ProductTypeId": 1
+  },
+  {
+    "Name": "Acer Predator X27",
+    "Description": "Acer Predator X27 gaming monitor with 4K resolution and G-Sync.",
+    "Price": 1999.99,
+    "PictureUrl": "images/products/boot-ang1.png",
+    "ProductBrandId": 8,
+    "ProductTypeId": 10
+  },
+  {
+    "Name": "Sony Xperia 1 III",
+    "Description": "Sony Xperia 1 III smartphone with 4K display and Zeiss optics.",
+    "Price": 999.99,
+    "PictureUrl": "images/products/boot-ang1.png",
+    "ProductBrandId": 6,
+    "ProductTypeId": 1
+  },
+  {
+    "Name": "Alienware Aurora R12",
+    "Description": "Alienware Aurora R12 gaming desktop with Intel Core and RTX graphics.",
+    "Price": 1899.99,
+    "PictureUrl": "images/products/boot-ang1.png",
+    "ProductBrandId": 10,
+    "ProductTypeId": 4
+  },
+  {
+    "Name": "JBL Flip 5",
+    "Description": "JBL Flip 5 portable Bluetooth speaker with powerful sound.",
+    "Price": 89.99,
+    "PictureUrl": "images/products/boot-ang1.png",
+    "ProductBrandId": 7,
+    "ProductTypeId": 10
+  },
+  {
+    "Name": "Samsung Galaxy Tab S7",
+    "Description": "Samsung Galaxy Tab S7 tablet with S Pen and powerful performance.",
+    "Price": 649.99,
+    "PictureUrl": "images/products/boot-ang1.png",
+    "ProductBrandId": 2,
+    "ProductTypeId": 3
+  },
+  {
+    "Name": "Nokia 8.3",
+    "Description": "Nokia 8.3 smartphone with PureView quad camera and 5G capabilities.",
+    "Price": 499.99,
+    "PictureUrl": "images/products/boot-ang1.png",
+    "ProductBrandId": 11,
+    "ProductTypeId": 1
+  },
+  {
+    "Name": "LG C1 OLED TV",
+    "Description": "LG C1 OLED TV with self-lit pixels and Dolby Vision IQ.",
+    "Price": 2499.99,
+    "PictureUrl": "images/products/boot-ang1.png",
+    "ProductBrandId": 7,
+    "ProductTypeId": 5
+  },
+  {
+    "Name": "Razer Blade 15",
+    "Description": "Razer Blade 15 gaming laptop with RTX graphics and customizable RGB.",
+    "Price": 1699.99,
+    "PictureUrl": "images/products/boot-ang1.png",
+    "ProductBrandId": 12,
+    "ProductTypeId": 2
+  },
+  {
+    "Name": "Fitbit Versa 3",
+    "Description": "Fitbit Versa 3 smartwatch with built-in GPS and health features.",
+    "Price": 229.99,
+    "PictureUrl": "images/products/boot-ang1.png",
+    "ProductBrandId": 17,
+    "ProductTypeId": 6
+  },
+  {
+    "Name": "LG V70",
+    "Description": "LG V70 smartphone with sleek design and powerful performance.",
+    "Price": 699.99,
+    "PictureUrl": "images/products/boot-ang1.png",
+    "ProductBrandId": 7,
+    "ProductTypeId": 1
+  },
+  {
+    "Name": "Sony WH-XB900N",
+    "Description": "Sony WH-XB900N Extra Bass wireless headphones with noise cancellation.",
+    "Price": 249.99,
+    "PictureUrl": "images/products/boot-ang1.png",
+    "ProductBrandId": 6,
+    "ProductTypeId": 9
+  },
+  {
+    "Name": "DJI Air 2S",
+    "Description": "DJI Air 2S drone with 1-inch sensor and intelligent shooting modes.",
+    "Price": 999.99,
+    "PictureUrl": "images/products/boot-ang1.png",
+    "ProductBrandId": 4,
+    "ProductTypeId": 14
+  },
+  {
+    "Name": "Lenovo Legion 5",
+    "Description": "Lenovo Legion 5 gaming laptop with AMD Ryzen and RTX graphics.",
+    "Price": 1299.99,
+    "PictureUrl": "images/products/boot-ang1.png",
+    "ProductBrandId": 13,
+    "ProductTypeId": 2
+  },
+  {
+    "Name": "Sony WF-1000XM4",
+    "Description": "Sony WF-1000XM4 true wireless earbuds with noise cancellation.",
+    "Price": 249.99,
+    "PictureUrl": "images/products/boot-ang1.png",
+    "ProductBrandId": 6,
+    "ProductTypeId": 9
+  },
+  {
+    "Name": "GoPro HERO10 Black",
+    "Description": "GoPro HERO10 Black action camera with HyperSmooth 4.0 stabilization.",
+    "Price": 399.99,
+    "PictureUrl": "images/products/boot-ang1.png",
+    "ProductBrandId": 5,
+    "ProductTypeId": 7
+  },
+  {
+    "Name": "Microsoft Surface Pro 8",
+    "Description": "Microsoft Surface Pro 8 with versatile 2-in-1 design and Windows 11.",
+    "Price": 999.99,
+    "PictureUrl": "images/products/boot-ang1.png",
+    "ProductBrandId": 9,
+    "ProductTypeId": 3
+  },
+  {
+    "Name": "Motorola Edge+",
+    "Description": "Motorola Edge+ smartphone with 108MP camera and 5G capabilities.",
+    "Price": 799.99,
+    "PictureUrl": "images/products/boot-ang1.png",
+    "ProductBrandId": 6,
+    "ProductTypeId": 1
+  },
+  {
+    "Name": "AOC CQ34G3S",
+    "Description": "AOC CQ34G3S curved gaming monitor with QHD resolution and 144Hz refresh rate.",
+    "Price": 499.99,
+    "PictureUrl": "images/products/boot-ang1.png",
+    "ProductBrandId": 7,
+    "ProductTypeId": 10
+  }
+]
