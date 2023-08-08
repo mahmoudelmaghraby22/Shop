@@ -40,6 +40,8 @@ namespace API
                 app.UseDeveloperExceptionPage();
             }
 
+            app.UseStatusCodePagesWithRedirects("/errors/{0}");
+
             app.UseHttpsRedirection();
 
             app.UseRouting();
