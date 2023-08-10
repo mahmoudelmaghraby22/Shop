@@ -30,7 +30,7 @@ namespace API.Errors
 
             var thingToReturn = thing.ToString();
             
-            return Ok();
+            return Ok(thingToReturn);
         }
 
         [HttpGet("badrequest")]
