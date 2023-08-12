@@ -1,0 +1,17 @@
+D:\programming\c# web development cource\Learn to build an e-commerce app with Net Core and Angular\Market\Core\obj\Debug\netcoreapp3.1\Core.csproj.AssemblyReference.cache
+D:\programming\c# web development cource\Learn to build an e-commerce app with Net Core and Angular\Market\Core\obj\Debug\netcoreapp3.1\Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\c# web development cource\Learn to build an e-commerce app with Net Core and Angular\Market\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+D:\programming\c# web development cource\Learn to build an e-commerce app with Net Core and Angular\Market\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+D:\programming\c# web development cource\Learn to build an e-commerce app with Net Core and Angular\Market\Core\obj\Debug\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
+D:\programming\c# web development cource\Learn to build an e-commerce app with Net Core and Angular\Market\Core\obj\Debug\netcoreapp3.1\Core.MvcApplicationPartsAssemblyInfo.cache
+D:\programming\c# web development cource\Learn to build an e-commerce app with Net Core and Angular\Market\Core\bin\Debug\netcoreapp3.1\Core.exe
+d:\programming\c# web development cource\Learn to build an e-commerce app with Net Core and Angular\Market\Core\bin\Debug\netcoreapp3.1\Core.deps.json
+d:\programming\c# web development cource\Learn to build an e-commerce app with Net Core and Angular\Market\Core\bin\Debug\netcoreapp3.1\Core.runtimeconfig.json
+d:\programming\c# web development cource\Learn to build an e-commerce app with Net Core and Angular\Market\Core\bin\Debug\netcoreapp3.1\Core.runtimeconfig.dev.json
+D:\programming\c# web development cource\Learn to build an e-commerce app with Net Core and Angular\Market\Core\bin\Debug\netcoreapp3.1\Core.dll
+D:\programming\c# web development cource\Learn to build an e-commerce app with Net Core and Angular\Market\Core\bin\Debug\netcoreapp3.1\Core.pdb
+D:\programming\c# web development cource\Learn to build an e-commerce app with Net Core and Angular\Market\Core\obj\Debug\netcoreapp3.1\staticwebassets\Core.StaticWebAssets.Manifest.cache
+D:\programming\c# web development cource\Learn to build an e-commerce app with Net Core and Angular\Market\Core\obj\Debug\netcoreapp3.1\Core.RazorTargetAssemblyInfo.cache
+D:\programming\c# web development cource\Learn to build an e-commerce app with Net Core and Angular\Market\Core\obj\Debug\netcoreapp3.1\Core.dll
+D:\programming\c# web development cource\Learn to build an e-commerce app with Net Core and Angular\Market\Core\obj\Debug\netcoreapp3.1\Core.pdb
+d:\programming\c# web development cource\Learn to build an e-commerce app with Net Core and Angular\Market\Core\obj\Debug\netcoreapp3.1\Core.genruntimeconfig.cache

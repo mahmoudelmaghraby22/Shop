@@ -1,0 +1,102 @@
+[
+  {
+    "Id": 1,
+    "Name": "Apple"
+  },
+  {
+    "Id": 2,
+    "Name": "Samsung"
+  },
+  {
+    "Id": 3,
+    "Name": "Google"
+  },
+  {
+    "Id": 4,
+    "Name": "Xiaomi"
+  },
+  {
+    "Id": 5,
+    "Name": "Sony"
+  },
+  {
+    "Id": 6,
+    "Name": "LG"
+  },
+  {
+    "Id": 7,
+    "Name": "Canon"
+  },
+  {
+    "Id": 8,
+    "Name": "Dell"
+  },
+  {
+    "Id": 9,
+    "Name": "Lenovo"
+  },
+  {
+    "Id": 10,
+    "Name": "Bose"
+  },
+  {
+    "Id": 11,
+    "Name": "Fitbit"
+  },
+  {
+    "Id": 12,
+    "Name": "Nintendo"
+  },
+  {
+    "Id": 13,
+    "Name": "TP-Link"
+  },
+  {
+    "Id": 14,
+    "Name": "Epson"
+  },
+  {
+    "Id": 15,
+    "Name": "Garmin"
+  },
+  {
+    "Id": 16,
+    "Name": "OnePlus"
+  },
+  {
+    "Id": 17,
+    "Name": "Huawei"
+  },
+  {
+    "Id": 18,
+    "Name": "Acer"
+  },
+  {
+    "Id": 19,
+    "Name": "JBL"
+  },
+  {
+    "Id": 20,
+    "Name": "Nokia"
+  },
+  {
+    "Id": 21,
+    "Name": "Razer"
+  },
+  {
+    "Id": 22,
+    "Name": "DJI"
+  },
+  {
+    "Id": 23,
+    "Name": "GoPro"
+  },
+  {
+    "Id": 24,
+    "Name": "Microsoft"
+  },
+  {
+    "Id": 25,
+    "Name": "Motorola"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "Id": 1,
+    "Name": "Mobile Phones"
+  },
+  {
+    "Id": 2,
+    "Name": "Laptops"
+  },
+  {
+    "Id": 3,
+    "Name": "Tablets"
+  },
+  {
+    "Id": 4,
+    "Name": "Desktops"
+  },
+  {
+    "Id": 5,
+    "Name": "TVs"
+  },
+  {
+    "Id": 6,
+    "Name": "Smartwatches"
+  },
+  {
+    "Id": 7,
+    "Name": "Cameras"
+  },
+  {
+    "Id": 8,
+    "Name": "Gaming Consoles"
+  },
+  {
+    "Id": 9,
+    "Name": "Headphones"
+  },
+  {
+    "Id": 10,
+    "Name": "Monitors"
+  },
+  {
+    "Id": 11,
+    "Name": "Routers"
+  },
+  {
+    "Id": 12,
+    "Name": "Printers"
+  },
+  {
+    "Id": 13,
+    "Name": "Fitness Trackers"
+  },
+  {
+    "Id": 14,
+    "Name": "Drones"
+  }
+]

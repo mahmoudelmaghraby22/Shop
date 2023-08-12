@@ -1,0 +1,136 @@
+{
+  "format": 1,
+  "restore": {
+    "d:\\programming\\c sharp web development cource\\Learn to build an e-commerce app with Net Core and Angular\\Market\\Infrastructure\\Infrastructure.csproj": {}
+  },
+  "projects": {
+    "d:\\programming\\c sharp web development cource\\Learn to build an e-commerce app with Net Core and Angular\\Market\\Core\\Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "d:\\programming\\c sharp web development cource\\Learn to build an e-commerce app with Net Core and Angular\\Market\\Core\\Core.csproj",
+        "projectName": "Core",
+        "projectPath": "d:\\programming\\c sharp web development cource\\Learn to build an e-commerce app with Net Core and Angular\\Market\\Core\\Core.csproj",
+        "packagesPath": "C:\\Users\\ma7mo\\.nuget\\packages\\",
+        "outputPath": "d:\\programming\\c sharp web development cource\\Learn to build an e-commerce app with Net Core and Angular\\Market\\Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ma7mo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.121\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "d:\\programming\\c sharp web development cource\\Learn to build an e-commerce app with Net Core and Angular\\Market\\Infrastructure\\Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "d:\\programming\\c sharp web development cource\\Learn to build an e-commerce app with Net Core and Angular\\Market\\Infrastructure\\Infrastructure.csproj",
+        "projectName": "Infrastructure",
+        "projectPath": "d:\\programming\\c sharp web development cource\\Learn to build an e-commerce app with Net Core and Angular\\Market\\Infrastructure\\Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\ma7mo\\.nuget\\packages\\",
+        "outputPath": "d:\\programming\\c sharp web development cource\\Learn to build an e-commerce app with Net Core and Angular\\Market\\Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ma7mo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "d:\\programming\\c sharp web development cource\\Learn to build an e-commerce app with Net Core and Angular\\Market\\Core\\Core.csproj": {
+                "projectPath": "d:\\programming\\c sharp web development cource\\Learn to build an e-commerce app with Net Core and Angular\\Market\\Core\\Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.121\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
