@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VLNuQY0gb73ujuEKViNQHWBc8O4DzEkn+APM5jftoTZDi8FxvPgjB6nhYg3qCjJmjkxUSN8xIJ71HzXqBb2H6Q==",
+  "dgSpecHash": "eyHVKrNVvL+QoT4N9+cC1n/JTOw5RJhs5TuBknTvu/5H1qWR7vnUED24ntybAQrUTe2sLUuj/9EMBTEgupB5QQ==",
   "success": true,
-  "projectFilePath": "d:\\programming\\c sharp web development cource\\Learn to build an e-commerce app with Net Core and Angular\\Market\\API\\API.csproj",
+  "projectFilePath": "D:\\programming\\c sharp web development cource\\Learn to build an e-commerce app with Net Core and Angular\\Market\\api\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ma7mo\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\ma7mo\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\7.0.0\\automapper.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",

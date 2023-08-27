@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\programming\\c sharp web development cource\\Learn to build an e-commerce app with Net Core and Angular\\Market\\Infrastructure\\Infrastructure.csproj": {}
+    "D:\\programming\\c sharp web development cource\\Learn to build an e-commerce app with Net Core and Angular\\Market\\Infrastructure\\Infrastructure.csproj": {}
   },
   "projects": {
-    "d:\\programming\\c sharp web development cource\\Learn to build an e-commerce app with Net Core and Angular\\Market\\Core\\Core.csproj": {
+    "D:\\programming\\c sharp web development cource\\Learn to build an e-commerce app with Net Core and Angular\\Market\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\programming\\c sharp web development cource\\Learn to build an e-commerce app with Net Core and Angular\\Market\\Core\\Core.csproj",
+        "projectUniqueName": "D:\\programming\\c sharp web development cource\\Learn to build an e-commerce app with Net Core and Angular\\Market\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "d:\\programming\\c sharp web development cource\\Learn to build an e-commerce app with Net Core and Angular\\Market\\Core\\Core.csproj",
+        "projectPath": "D:\\programming\\c sharp web development cource\\Learn to build an e-commerce app with Net Core and Angular\\Market\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\ma7mo\\.nuget\\packages\\",
-        "outputPath": "d:\\programming\\c sharp web development cource\\Learn to build an e-commerce app with Net Core and Angular\\Market\\Core\\obj\\",
+        "outputPath": "D:\\programming\\c sharp web development cource\\Learn to build an e-commerce app with Net Core and Angular\\Market\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ma7mo\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -59,14 +59,14 @@
         }
       }
     },
-    "d:\\programming\\c sharp web development cource\\Learn to build an e-commerce app with Net Core and Angular\\Market\\Infrastructure\\Infrastructure.csproj": {
+    "D:\\programming\\c sharp web development cource\\Learn to build an e-commerce app with Net Core and Angular\\Market\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\programming\\c sharp web development cource\\Learn to build an e-commerce app with Net Core and Angular\\Market\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "D:\\programming\\c sharp web development cource\\Learn to build an e-commerce app with Net Core and Angular\\Market\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "d:\\programming\\c sharp web development cource\\Learn to build an e-commerce app with Net Core and Angular\\Market\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "D:\\programming\\c sharp web development cource\\Learn to build an e-commerce app with Net Core and Angular\\Market\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\ma7mo\\.nuget\\packages\\",
-        "outputPath": "d:\\programming\\c sharp web development cource\\Learn to build an e-commerce app with Net Core and Angular\\Market\\Infrastructure\\obj\\",
+        "outputPath": "D:\\programming\\c sharp web development cource\\Learn to build an e-commerce app with Net Core and Angular\\Market\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ma7mo\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -81,8 +81,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "d:\\programming\\c sharp web development cource\\Learn to build an e-commerce app with Net Core and Angular\\Market\\Core\\Core.csproj": {
-                "projectPath": "d:\\programming\\c sharp web development cource\\Learn to build an e-commerce app with Net Core and Angular\\Market\\Core\\Core.csproj"
+              "D:\\programming\\c sharp web development cource\\Learn to build an e-commerce app with Net Core and Angular\\Market\\Core\\Core.csproj": {
+                "projectPath": "D:\\programming\\c sharp web development cource\\Learn to build an e-commerce app with Net Core and Angular\\Market\\Core\\Core.csproj"
               }
             }
           }

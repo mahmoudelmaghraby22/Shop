@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1Opy9oxoB0UbP5CVMsqDotiOscACCEpTSsnmWAQqiYMz+w55auaEDk5VOgLHlpXtHNtQ6W3jRHsySQYrG0PFxQ==",
+  "dgSpecHash": "hnwImJy8BJXhl2VC6W3SQqUlvbuZI9Rlk8Xb3AwxNMeVTVdHGD+bRGeZt3ZhreIwur7zYkJU1C4uAOIY8Fq8OA==",
   "success": true,
-  "projectFilePath": "d:\\programming\\c sharp web development cource\\Learn to build an e-commerce app with Net Core and Angular\\Market\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "D:\\programming\\c sharp web development cource\\Learn to build an e-commerce app with Net Core and Angular\\Market\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ma7mo\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\ma7mo\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
