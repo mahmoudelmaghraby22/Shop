@@ -47,9 +47,19 @@
         >
         </app-paging-header>
         <div class="d-flex align-items-cente form-inline">
-          <input (keyup.enter)="onSearch()" class="form-control m-2" #search type="text" placeholder="Search" />
-          <button (click)="onSearch()" class="btn btn-outline-primary m-2">Search</button>
-          <button (click)="onReset()" class="btn btn-outline-danger m-2">reset</button>
+          <input
+            (keyup.enter)="onSearch()"
+            class="form-control m-2"
+            #search
+            type="text"
+            placeholder="Search"
+          />
+          <button (click)="onSearch()" class="btn btn-outline-primary m-2">
+            Search
+          </button>
+          <button (click)="onReset()" class="btn btn-outline-danger m-2">
+            reset
+          </button>
         </div>
       </div>
       <div class="row">

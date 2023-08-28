@@ -1,0 +1,31 @@
+<div class="row" *ngIf="product">
+  <div class="col-6">
+    <img
+      src="{{ product.pictureUrl }}"
+      alt="{{ product.name }}"
+      class="img-fluid w-75"
+    />
+  </div>
+  <div class="col-6">
+    <h3>{{ product.name }}</h3>
+    <h6>{{ product.price | currency }}</h6>
+    <div class="d-flex justify-content-start align-items-center">
+      <i
+        class="fa fa-solid fa-minus-circle fa-beat me-3"
+        style="font-size: 3em; color: rgb(146, 116, 146); cursor: pointer"
+      ></i>
+      <span class="font-waight-bold" style="font-size: 3em">2</span>
+      <i
+        class="fa fa-solid fa-plus-circle fa-beat mx-3"
+        style="font-size: 3em; color: rgb(213, 25, 213); cursor: pointer"
+      ></i>
+      <button class="btn btn-outline-success ms-4">Add to cart</button>
+    </div>
+  </div>
+  <div class="row mt-5">
+    <div class="col-12 ml-3">
+      <h4>Description</h4>
+      <p>{{ product.description }}</p>
+    </div>
+  </div>
+</div>
