@@ -13,11 +13,13 @@ namespace API.Extentions
         public static IServiceCollection AddApplicationService
                 (this IServiceCollection services)
         {
+            services.AddScoped<IBasketRepository, BasketRepository>();
+
             services.AddScoped(typeof(IGenericRepository<>),
                 typeof(GenericRepository<>));
             services.AddScoped<IProductRepository, ProductRepository>();
 
-            services.Configure<ApiBehaviorOptions>(options => 
+            services.Configure<ApiBehaviorOptions>(options =>
             {
                 options.InvalidModelStateResponseFactory = actionContext =>
                 {
@@ -26,13 +28,13 @@ namespace API.Extentions
                     .SelectMany(x => x.Value.Errors)
                     .Select(x => x.ErrorMessage);
 
-                    var errorResponce= new ApiValidationErrorResponce
+                    var errorResponce = new ApiValidationErrorResponce
                     {
                         Errors = errors
                     };
 
-                     return new BadRequestObjectResult(errorResponce);
-                };               
+                    return new BadRequestObjectResult(errorResponce);
+                };
             });
 
             return services;

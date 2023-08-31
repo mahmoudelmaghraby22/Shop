@@ -128,3 +128,6 @@ D:\programming\c sharp web development cource\Learn to build an e-commerce app w
 D:\programming\c sharp web development cource\Learn to build an e-commerce app with Net Core and Angular\Market\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.dll
 D:\programming\c sharp web development cource\Learn to build an e-commerce app with Net Core and Angular\Market\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.pdb
 D:\programming\c sharp web development cource\Learn to build an e-commerce app with Net Core and Angular\Market\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.genruntimeconfig.cache
+D:\programming\c sharp web development cource\Learn to build an e-commerce app with Net Core and Angular\Market\Infrastructure\bin\Debug\netcoreapp3.1\Pipelines.Sockets.Unofficial.dll
+D:\programming\c sharp web development cource\Learn to build an e-commerce app with Net Core and Angular\Market\Infrastructure\bin\Debug\netcoreapp3.1\StackExchange.Redis.dll
+D:\programming\c sharp web development cource\Learn to build an e-commerce app with Net Core and Angular\Market\Infrastructure\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
