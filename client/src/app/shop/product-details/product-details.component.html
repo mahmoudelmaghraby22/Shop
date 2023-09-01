@@ -12,15 +12,24 @@
       <h6>{{ product.price | currency }}</h6>
       <div class="d-flex justify-content-start align-items-center">
         <i
+          (click)="decrementQuantity()"
           class="fa fa-solid fa-minus-circle fa-beat me-3"
           style="font-size: 3em; color: rgb(146, 116, 146); cursor: pointer"
         ></i>
-        <span class="font-waight-bold" style="font-size: 3em">2</span>
+        <span class="font-waight-bold" style="font-size: 3em">{{
+          quantity
+        }}</span>
         <i
+          (click)="incrementQuantity()"
           class="fa fa-solid fa-plus-circle fa-beat mx-3"
           style="font-size: 3em; color: rgb(213, 25, 213); cursor: pointer"
         ></i>
-        <button class="btn btn-outline-success ms-4">Add to cart</button>
+        <button
+          (click)="addItemToBasket()"
+          class="btn btn-outline-success ms-4"
+        >
+          Add to cart
+        </button>
       </div>
     </div>
     <div class="row mt-5">
