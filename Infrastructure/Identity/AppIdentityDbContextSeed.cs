@@ -20,6 +20,7 @@ namespace Infrastructure.Identity
                     Street = "10th",
                     City = "Abu Hammad",
                     Government = "Ash Sharqia",
+                    Country = "Egypt",
                     ZipCode = "44661"
                 }
             };

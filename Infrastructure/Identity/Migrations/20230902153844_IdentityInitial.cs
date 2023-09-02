@@ -79,6 +79,7 @@ namespace Infrastructure.Identity.Migrations
                     Street = table.Column<string>(nullable: true),
                     City = table.Column<string>(nullable: true),
                     Government = table.Column<string>(nullable: true),
+                    Country = table.Column<string>(nullable: true),
                     ZipCode = table.Column<string>(nullable: true),
                     AppUserId = table.Column<string>(nullable: true)
                 },
