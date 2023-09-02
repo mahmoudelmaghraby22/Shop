@@ -8,6 +8,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using API.Extentions;
 using StackExchange.Redis;
+using Infrastructure.Identity;
 
 namespace API
 {
@@ -26,6 +27,8 @@ namespace API
             services.AddControllers();
             services.AddDbContext<StoreContext>(x =>
                   x.UseSqlite(_config.GetConnectionString("DefaultConnection")));
+            services.AddDbContext<AppIdentityDbContext>(x =>
+                    x.UseSqlite(_config.GetConnectionString("IdentityConnection")));
 
             services.AddSingleton<IConnectionMultiplexer>(c =>
             {
@@ -35,6 +38,7 @@ namespace API
             });
 
             services.AddApplicationService();
+            services.AddIdentityService(_config);
             services.AddSwaggerService();
             services.AddCors(options =>
             {
@@ -61,6 +65,7 @@ namespace API
 
             app.UseCors("CorsPolicy");
 
+            app.UseAuthentication();
             app.UseAuthorization();
 
             app.UseSwaggerDocumentations();

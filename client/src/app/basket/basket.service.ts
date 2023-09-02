@@ -45,17 +45,36 @@ export class BasketService implements OnInit {
     );
   }
 
+  //delete the basket with its id form local stroage
+  deleteBasket(basket: IBasket) {
+    //get the link from API
+    return this.http.delete(this.baseUrl + 'basket?id=' + basket.id).subscribe(
+      () => {
+        this.basketSource.next(null);
+        this.basketTotalSource.next(null);
+        localStorage.removeItem('basket_id');
+      },
+      (error) => console.log(error)
+    );
+  }
+
+  //get the basket that stored now 
   getCurrentBasketValue() {
     return this.basketSource.value;
   }
 
+  //add an item to the basket
   addItemToBasket(item: IProduct, quantity = 1) {
+    //must make a relation between the product and item in basket
     const itemToAdd: IBasketItem = this.mapProductItemToBasketItem(
       item,
       quantity
     );
+    //check if there is no basket & create it 
     let basket = this.getCurrentBasketValue() ?? this.createBasket();
+    //add the item to the basket 
     basket.items = this.addOrUpdateItem(basket.items, itemToAdd, quantity);
+    //update the basket with the new item
     this.setBasket(basket);
   }
 
@@ -70,16 +89,7 @@ export class BasketService implements OnInit {
       }
     }
   }
-  deleteBasket(basket: IBasket) {
-    return this.http.delete(this.baseUrl + 'basket?id=' + basket.id).subscribe(
-      () => {
-        this.basketSource.next(null);
-        this.basketTotalSource.next(null);
-        localStorage.removeItem('basket_id');
-      },
-      (error) => console.log(error)
-    );
-  }
+  
 
   incrementItemQuantity(item: IBasketItem) {
     const basket = this.getCurrentBasketValue();
