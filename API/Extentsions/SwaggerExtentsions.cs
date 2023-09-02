@@ -12,8 +12,27 @@ namespace API.Extentions
         {
             services.AddSwaggerGen(s =>
             {
-                s.SwaggerDoc("v1", new OpenApiInfo  
-                    {Title = "Market Api", Version = "v1"});
+                s.SwaggerDoc("v1", new OpenApiInfo
+                { Title = "Market Api", Version = "v1" });
+
+                var securitySchema = new OpenApiSecurityScheme
+                {
+                    Description = "JWT Auth Bearer Scheme",
+                    Name = "Authorization",
+                    In = ParameterLocation.Header,
+                    Type = SecuritySchemeType.Http,
+                    Scheme = "bearer",
+                    Reference = new OpenApiReference
+                    {
+                        Type = ReferenceType.SecurityScheme,
+                        Id = "Bearer"
+                    }
+                };
+                s.AddSecurityDefinition("Bearer", securitySchema);
+
+                var securityReq = new OpenApiSecurityRequirement
+                    {{securitySchema, new [] {"Bearer"}}};
+                s.AddSecurityRequirement(securityReq);
             });
 
             return services;
@@ -23,7 +42,7 @@ namespace API.Extentions
             (this IApplicationBuilder app)
         {
             app.UseSwagger();
-            app.UseSwaggerUI(c => 
+            app.UseSwaggerUI(c =>
                 c.SwaggerEndpoint("/swagger/v1/swagger.json", "Market api v1"));
 
             return app;
